@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TxtBuff\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-09-28 17:30-0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"Language-Team: \n"
+
+#: txtbuff.php:102
+#: txtbuff.php:209
+msgid "TxtBuff Options"
+msgstr ""
+
+#: txtbuff.php:102
+#: txtbuff.php:311
+msgid "TxtBuff"
+msgstr ""
+
+#: txtbuff.php:136
+msgid "Options reset to defaults."
+msgstr ""
+
+#: txtbuff.php:145
+msgid "author"
+msgstr ""
+
+#: txtbuff.php:149
+msgid "category"
+msgstr ""
+
+#: txtbuff.php:182
+msgid "Options saved."
+msgstr ""
+
+#: txtbuff.php:216
+#: txtbuff.php:257
+msgid "Update Options &raquo;"
+msgstr ""
+
+#: txtbuff.php:219
+msgid "Select SMS Quote Source"
+msgstr ""
+
+#: txtbuff.php:222
+msgid "Latest Quotes"
+msgstr ""
+
+#: txtbuff.php:225
+msgid "Specific Author"
+msgstr ""
+
+#: txtbuff.php:226
+msgid "&raquo; Author Name:"
+msgstr ""
+
+#: txtbuff.php:229
+msgid "Specific Category"
+msgstr ""
+
+#: txtbuff.php:230
+msgid "&raquo; Category Name:"
+msgstr ""
+
+#: txtbuff.php:235
+msgid "Quote Display Options"
+msgstr ""
+
+#: txtbuff.php:238
+msgid "Number of quotes to display:"
+msgstr ""
+
+#: txtbuff.php:242
+msgid "Maximum characters per quote to display:"
+msgstr ""
+
+#: txtbuff.php:248
+msgid "Appearance"
+msgstr ""
+
+#: txtbuff.php:256
+msgid "&laquo; Reset To Defaults"
+msgstr ""
+
+#: txtbuff.php:312
+msgid "SMS Quotes and Text Messages Collection"
+msgstr ""
+
+#: txtbuff.php:327
+msgid "&laquo;details&raquo;"
+msgstr ""
+
+#: txtbuff.php:334
+msgid "No items found."
+msgstr ""
+
